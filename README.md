@@ -30,7 +30,23 @@ Here are the core skills I use and teach:
  **Prompt Engineering** – Crafting smart AI prompts for better results
  **WordPress** – Basic CMS site setup & content updates
  **Social Media Content Creation** – Engaging, brand-driven content
- **Teaching Tech Skills** – Graphic design, web dev, video editing, AI  
+ **Teaching Tech Skills** – Graphic design, web dev, video editing, AI
+
+ Contact Me
+
+-  **Phone**: 0799842714 / 0116048232  
+   **Email**: njenganjoki783@gmail.com  
+-  [**LinkedIn**](https://www.linkedin.com/in/njenga-njoki-ab8645257)  
+-  [**Instagram**](https://www.instagram.com/njenga_njoki/)  
+-  [**Facebook**](https://www.facebook.com/faith.gracious.12/)  
+-  [**Threads**](https://www.threads.net/@njenga_njoki)
+
+---
+
+ Let’s Collaborate!
+I’m open to partnerships, mentorships, tech teaching gigs, and freelance design work. Reach out — let’s make something amazing together! 
+
+  
 
 
 
