@@ -1,75 +1,72 @@
-# 👩‍💻 Faith Njoki Njenga
+FAITH NJOKI NJENGA
 
 <p align="center">
-  <img src="https://instagram.fmba5-1.fna.fbcdn.net/v/t51.2885-19/518563758_18388181740190412_2686766916303818204_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=instagram.fmba5-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QE6edp_EZGQ74VhTIcH4MBTvNijmd9tguq0NvBoEMh01Q5P-YXQzDtgCIQjp6UfQ64&_nc_ohc=Df5_yAYGWnIQ7kNvwH-hOqC&_nc_gid=4pXAzgP26igfgg-g1nkpyw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfSiD8_kZ8FFtOUthZ97sXSPcbbZYiSyI8cghuQSEpcTHg&oe=689363A4&_nc_sid=7a9f4b" width="150" style="border-radius: 50%;" alt="Faith Njoki Njenga" />
+  https://media.licdn.com/dms/image/v2/D4E03AQGJpQh9-w9-nA/profile-displayphoto-shrink_200_200/B4EZTB3lImHcAY-/0/1738419361126?e=2147483647&v=beta&t=8U0N-uhMg1ndkiSiZcZTTmfg4qsMALvAHWcytDLdZ40
 </p>
 
 Hi there! I'm **Faith Njoki**, a passionate tech enthusiast and founder of **TechTribe** — where I teach digital skills to the next generation of tech leaders. I love designing, building, and sharing knowledge through creative content and hands-on learning.
 
----
 
-## 🚀 About Me
+
+ ABOUT ME
 
 I'm a multi-skilled digital creator and educator with a mission to empower youth with tech skills. Whether it's designing eye-catching visuals, building web pages, editing videos, or teaching how to use AI tools — I bring creativity and clarity to every project.
 
----
 
-## 🛠️ Skills
+
+ Skills
 
 Here are some of the tools and technologies I specialize in:
 
-### 1. **Canva Design**
+1. **Canva Design**
 I create stunning graphics, social media posts, eBook covers, and mockups using Canva with strong visual balance and creativity.
 
-### 2. **HTML**
+ 2. **HTML**
 Skilled in structuring web content using clean and semantic HTML tags.
 
-### 3. **CSS**
+ 3. **CSS**
 I style web pages with beautiful layouts, animations, and responsive designs.
 
-### 4. **JavaScript**
+ 4. **JavaScript**
 I add interactivity and dynamic features to websites using modern JS techniques.
 
-### 5. **Social Media Content Creation**
+ 5. **Social Media Content Creation**
 I plan, design, and schedule engaging content to grow online brands.
 
-### 6. **CapCut Video Editing**
+ 6. **CapCut Video Editing**
 I create high-quality, attention-grabbing video content using CapCut tools and templates.
 
-### 7. **Git & GitHub**
+ 7. **Git & GitHub**
 I manage and collaborate on projects using Git and host them on GitHub for version control and sharing.
-
-### 8. **AI Tools Mastery**
+ 8. **AI Tools Mastery**
 I use various AI tools like ChatGPT and Canva AI to enhance creativity, productivity, and learning.
 
-### 9. **Teaching Tech Skills**
+ 9. **Teaching Tech Skills**
 I run training sessions for teens and beginners on digital skills, making learning fun and easy.
 
-### 10. **Web Portfolio Building**
+ 10. **Web Portfolio Building**
 I build clean, modern portfolios to showcase personal and client work online.
 
----
-
-## 🧰 Projects
-
+-
+PROJECTS
 Here’s where you can view my work:
 
-- 🌐 **My Portfolio:** [njenganjoki.github.io/njenganjoki](https://njenganjoki.github.io/njenganjoki/)
-- 👩‍🏫 **TechTribe:** An online & in-person club teaching students digital skills (web design, Canva, CapCut & more)
+ **My Portfolio:** [njenganjoki.github.io/njenganjoki](https://njenganjoki.github.io/njenganjoki/)
+ **TechTribe:** An online & in-person club teaching students digital skills (web design, Canva, CapCut & more)
 
 More projects coming soon!
 
----
 
-## 📬 Contact Me
 
-- 📧 Email: **njenganjoki783@gmail.com**  
-- 📱 Phone: **0799842714 / 0116048232**  
-- 📸 Instagram: [@njenga_njoki](https://www.instagram.com/njenga_njoki/)  
-- 🧵 Threads: [@njenga_njoki](https://www.threads.com/@njenga_njoki?xmt=AQF0ekXjFem49y4b0l62tgnXufybPdD2iKk7_cO7Z8Y2zH8)  
-- 💼 LinkedIn: [Faith Njoki Njenga](https://www.linkedin.com/in/njenga-njoki-ab8645257)  
-- 👍 Facebook: [Faith Njoki](https://www.facebook.com/faith.gracious.12/)  
-- 🌐 Portfolio: [njenganjoki.github.io/njenganjoki](https://njenganjoki.github.io/njenganjoki/)
+ CONTACT ME
+
+ Email: **njenganjoki783@gmail.com**  
+ Phone: **0799842714 / 0116048232**  
+ Instagram: [@njenga_njoki](https://www.instagram.com/njenga_njoki/)  
+ Threads: [@njenga_njoki](https://www.threads.com/@njenga_njoki?xmt=AQF0ekXjFem49y4b0l62tgnXufybPdD2iKk7_cO7Z8Y2zH8)  
+ LinkedIn: [Faith Njoki Njenga](https://www.linkedin.com/in/njenga-njoki-ab8645257)  
+ Facebook: [Faith Njoki](https://www.facebook.com/faith.gracious.12/)  
+ Portfolio: [njenganjoki.github.io/njenganjoki](https://njenganjoki.github.io/njenganjoki/)
 
 ---
 
