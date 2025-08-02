@@ -1,9 +1,52 @@
 FAITH NJOKI NJENGA
 
+<!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/njenganjoki/njenganjoki/blob/main/profile-photo.jpg" alt="My profile photo" width="200" style="border-radius: 50%;" />
-
+  <img src="https://scontent.fmba5-1.fna.fbcdn.net/v/t39.30808-1/505581023_122102653064904465_529506891980478823_n.jpg?stp=c0.15.631.631a_dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=EuKIiPeuTg0Q7kNvwERtS5w&_nc_oc=Adlm1agXxEuHn-OqrAdRPViLE2gpNb7JGSaxVLfeJOs2_8LbJtvm9UBNsOEfHbYocnM&_nc_zt=24&_nc_ht=scontent.fmba5-1.fna&_nc_gid=QPiAYRe4xmCa1VJboRdrpQ&oh=00_AfQ4YI0YQXfH4-QtmA2HISZWzPjo5wauVNhNkeJlAK7zBg&oe=68937CDB" width="180" style="border-radius: 50%;" alt="Profile photo" />
 </p>
+
+---
+
+# 👋 Hi, I'm Njenga Njoki
+
+I'm a passionate **tech educator**, **Canva designer**, and **content creator** based in Kenya. I enjoy teaching young learners, creating digital content, and helping others grow in tech.
+
+### 💼 Skills:
+- ✅ Canva Design
+- ✅ HTML, CSS, JavaScript
+- ✅ Social Media Content Creation
+- ✅ CapCut Video Editing
+- ✅ Git & GitHub
+- ✅ AI Tools Mastery
+- ✅ Teaching Tech Skills
+
+---
+
+### 📫 Let's Connect:
+- 🌐 Portfolio: [njenganjoki.github.io/njenganjoki](https://njenganjoki.github.io/njenganjoki/)
+- 💼 LinkedIn: [Njenga Njoki](https://www.linkedin.com/in/njenga-njoki-ab8645257/)
+- 📸 Instagram: [@njenga_njoki](https://www.instagram.com/njenga_njoki/)
+- 📘 Facebook: [Faith Gracious](https://www.facebook.com/faith.gracious.12/)
+- 🧵 Threads: [@njenga_njoki](https://www.threads.com/@njenga_njoki?xmt=AQF0ekXjFem49y4b0l62tgnXufybPdD2iKk7_cO7Z8Y2zH8)
+
+---
+
+### 📱 Contact Me:
+- 📞 Phone: 0799842714 / 0116048232  
+- 📩 Email: *(you can add your email here if you want)*
+
+---
+
+### 🌟 Fun Fact:
+I believe that teaching tech is one of the best ways to change lives—and I'm here to inspire the next generation through digital skills 🚀
+
+---
+
+Let me know if you'd like me to:
+- Add/remove sections (like the project section you asked about)
+- Change colors or style using HTML/CSS inside your GitHub README
+- Help you upload this to your GitHub profile
+
 
 Hi there! I'm **Faith Njoki**, a passionate tech enthusiast and founder of **TechTribe** — where I teach digital skills to the next generation of tech leaders. I love designing, building, and sharing knowledge through creative content and hands-on learning.
 
