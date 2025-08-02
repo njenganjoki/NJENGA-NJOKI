@@ -1,5 +1,9 @@
 # 👩‍💻 Faith Njoki Njenga
 
+<p align="center">
+  <img src="https://instagram.fmba5-1.fna.fbcdn.net/v/t51.2885-19/518563758_18388181740190412_2686766916303818204_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=instagram.fmba5-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QE6edp_EZGQ74VhTIcH4MBTvNijmd9tguq0NvBoEMh01Q5P-YXQzDtgCIQjp6UfQ64&_nc_ohc=Df5_yAYGWnIQ7kNvwH-hOqC&_nc_gid=4pXAzgP26igfgg-g1nkpyw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfSiD8_kZ8FFtOUthZ97sXSPcbbZYiSyI8cghuQSEpcTHg&oe=689363A4&_nc_sid=7a9f4b" width="150" style="border-radius: 50%;" alt="Faith Njoki Njenga" />
+</p>
+
 Hi there! I'm **Faith Njoki**, a passionate tech enthusiast and founder of **TechTribe** — where I teach digital skills to the next generation of tech leaders. I love designing, building, and sharing knowledge through creative content and hands-on learning.
 
 ---
