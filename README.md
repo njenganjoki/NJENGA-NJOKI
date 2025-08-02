@@ -1,7 +1,8 @@
 FAITH NJOKI NJENGA
 
 <p align="center">
-  https://media.licdn.com/dms/image/v2/D4E03AQGJpQh9-w9-nA/profile-displayphoto-shrink_200_200/B4EZTB3lImHcAY-/0/1738419361126?e=2147483647&v=beta&t=8U0N-uhMg1ndkiSiZcZTTmfg4qsMALvAHWcytDLdZ40
+  <img src="https://github.com/njenganjoki/njenganjoki/blob/main/profile-photo.jpg" alt="My profile photo" width="200" style="border-radius: 50%;" />
+
 </p>
 
 Hi there! I'm **Faith Njoki**, a passionate tech enthusiast and founder of **TechTribe** — where I teach digital skills to the next generation of tech leaders. I love designing, building, and sharing knowledge through creative content and hands-on learning.
